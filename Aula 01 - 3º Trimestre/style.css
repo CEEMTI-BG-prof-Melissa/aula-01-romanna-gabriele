@@ -1,4 +1,4 @@
-p:first-of-type::first-letter {
+p::first-letter {
     color: blue;
 }
 

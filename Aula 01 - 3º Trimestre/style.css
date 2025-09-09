@@ -48,3 +48,6 @@ p::first-letter {
     color: red;
     font-size: 150%;
 }
+input:placeholder {
+    background-color: lightgray;
+}

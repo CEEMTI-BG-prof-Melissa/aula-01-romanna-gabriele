@@ -1,1 +1,8 @@
+h1{
+  text-align: center;
+  leitor-spacing: 5px;
+  text-transform: uppercase;
+  text-shadow: 2px, 2px, 4px;
 
+  h2{
+    

@@ -12,55 +12,68 @@ background-color; skyblue
 }
 
 #Bloco2{
-background-img: url ("agathaa.png");
+background-img: url("agathaa.png");
 background-repeat: repeat;
 }
 
 #Bloco3{
-background-img: url ("agathaa.png");
+background-img: url("agathaa.png");
 background-position: center;
-background-repeat: no repeat;
+background-repeat: no-repeat;
 }
 
 #Bloco4{
-background-img: url ("agathaa.png");
+background-img: url("agathaa.png");
 background-size: cover;
 }
 
 #bloco5{
-background-img: url ("agathaa.png");
+background-img: url("agathaa.png");
 background-attachment: fixed;
 }
 
 #Bloco6{
-background-img: url ("agathaa.png");
-background-repeat: no repeat;
+background-img: url("agathaa.png");
+background-repeat: no-repeat;
 background-origin: padding-box;
 }
 
 #Bloco7{
-background-img: url ("agathaa.png");
-background-repeat: no repeat;
+background-img: url("agathaa.png");
+background-repeat: no-repeat;
 background-origin: border-box;
 }
 
 #Bloco8{
-background-img: url ("agathaa.png");
-background-repeat: no repeat;
+background-img: url("agathaa.png");
+background-repeat: no-repeat;
 background-origin: content-box;
 }
 
 #Bloco9{
-background-img: url ("agathaa.png");
-background-repeat: no repeat;
+background-img: url("agathaa.png");
+background-repeat: no-repeat;
 background-clip: padding-box;
 }
 
 #Bloco10{
-background-img: url ("agathaa.png");
-background-repeat: no repeat;
+background-img: url("agathaa.png");
+background-repeat: no-repeat;
 background-clip: border-box;
 }
+
+#Bloco11{
+background-img: url("agathaa.png");
+background-repeat: no-repeat;
+background-clip: content-box;
+}
+
+#Bloco12{
+background: url("agathaa.png") repeat border-box;
+}
+
+
+
 
 
 

@@ -79,6 +79,8 @@ background-clip: content-box;
 #Bloco12{
 background: url("agathaa.png") repeat border-box;
 }
+</body>
+</html>
 
 
 

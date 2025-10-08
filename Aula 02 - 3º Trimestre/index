@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title>Atividadetitle>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
 #Div 1 {
        padding: 20px;
        margin: 10px;

@@ -10,11 +10,13 @@ h2{
   text-decoration: capitalize;
   text-decoration-line: overline;
   }
-
+#parágrafo1
   text-ident: 30px;
   text-align: justify;
   line-height: 1.8px;
   text-decoration-line: underline;
   text-decoration-line: dashed;
+  text-decoration-thickness: noticiable;
+
 
   

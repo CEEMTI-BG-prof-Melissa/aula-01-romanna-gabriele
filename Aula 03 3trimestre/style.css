@@ -4,13 +4,17 @@ h1{
   text-transform: uppercase;
   text-shadow: 2px, 2px, 4px purple;
 }
-  h2{ 
-    text-align: right;
-    word-spacing: 10px;
-    text-decoration: capitalize;
-    text-decoration-line: overline;
+h2{ 
+  text-align: right;
+  word-spacing: 10px;
+  text-decoration: capitalize;
+  text-decoration-line: overline;
   }
-h3{
-  text-
-     
-    
+
+  text-ident: 30px;
+  text-align: justify;
+  line-height: 1.8px;
+  text-decoration-line: underline;
+  text-decoration-line: dashed;
+
+  

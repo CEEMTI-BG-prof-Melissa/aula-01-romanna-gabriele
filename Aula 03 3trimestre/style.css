@@ -11,12 +11,15 @@ h2{
   text-decoration-line: overline;
   }
 #parágrafo1
-<p text-ident: 30px;
+<p>text-ident: 30px;
   text-align: justify;
   line-height: 1.8px;
   text-decoration-line: underline;
   text-decoration-line: dashed;
   text-decoration-thickness: noticiable;
 </p>
-
+#parágrafo2
+<p> text-align: center;
+dir="rtl">;
+</p>
   
